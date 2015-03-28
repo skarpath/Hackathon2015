@@ -1,0 +1,84 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bluegrade"
+    android:padding="10dp"
+    tools:context="${relativePackage}.${activityClass}" >
+
+        <EditText
+            android:id="@+id/signInUserName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/UsernameSignInTextView"
+            android:layout_centerHorizontal="true"
+            android:ems="10"
+            android:hint="Enter your email adress"
+            android:textColor="#ffffffff"
+            android:textColorHint="#ffffffff"
+            android:width="180dp" />
+
+    <Button
+        android:id="@+id/btnSignInCancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/btnSignInSubmit"
+        android:layout_alignBottom="@+id/btnSignInSubmit"
+        android:layout_alignParentLeft="true"
+        android:minWidth="140dip"
+        android:text="Cancel"
+        android:textColor="#ffffffff" />
+
+    <TextView
+        android:id="@+id/UsernameSignInTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/signInUserName"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="25dp"
+        android:text="Email:"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#ffffffff" />
+
+    <EditText
+        android:id="@+id/signInUserPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/SignInPasswordTextView"
+        android:layout_below="@+id/SignInPasswordTextView"
+        android:layout_marginTop="16dp"
+        android:ems="10"
+        android:hint="Enter your password"
+        android:textColor="#ffffffff"
+        android:textColorHint="#ffffffff"
+        android:width="180dp" >
+
+        
+    </EditText>
+
+    <TextView
+        android:id="@+id/SignInPasswordTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/signInUserName"
+        android:layout_below="@+id/signInUserName"
+        android:layout_marginTop="14dp"
+        android:text="Password :"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#ffffffff" />
+
+    <Button
+        android:id="@+id/btnSignInSubmit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="16dp"
+        android:minWidth="140dip"
+        android:text="Sign In"
+        android:textColor="#ffffffff" />
+
+    
+    
+
+</RelativeLayout>
