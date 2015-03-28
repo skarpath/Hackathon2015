@@ -146,8 +146,17 @@ public class SignUpActivity extends Activity {
 								// Hooray! Let them use the app now.
 								Toast.makeText(getApplicationContext(), "You are now signed up and logged in", Toast.LENGTH_SHORT).show();
 
-								Intent intent = new Intent(getApplicationContext(), MainActivity.class);
-								startActivity(intent);		
+                                if ( usertype == "Customer")
+                                {
+                                    Intent intent = new Intent(getApplicationContext(), Customer.class);
+                                    startActivity(intent);
+                                }
+                                else
+                                {
+                                    //Intent intent = new Intent(getApplicationContext(), Donor.class);
+                                    //startActivity(intent);
+                                }
+
 							} else {
 								// Sign up didn't succeed. Look at the ParseException
 								// to figure out what went wrong

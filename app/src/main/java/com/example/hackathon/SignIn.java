@@ -83,7 +83,10 @@ public class SignIn extends Activity {
 						      // Hooray! The user is logged in.
 						    	// Hooray! The user is logged in.
 								Toast.makeText(getApplicationContext(), "User has successfully signed in.", Toast.LENGTH_SHORT).show();
-								Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+
+
+
+                                Intent intent = new Intent(getApplicationContext(), MainActivity.class);
 								startActivity(intent);	
 								
 								
