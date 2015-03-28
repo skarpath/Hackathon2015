@@ -2,39 +2,39 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Stephen\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="C:\Users\Stephen\Documents\MyFiles\Development\AndroidStudio\Hackathon\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-780f0bd40b4ef6b35bc971dbdc403f3ac815c294.jar" />
-    </item>
-    <item
-        jar="C:\Users\Stephen\Documents\MyFiles\Development\AndroidStudio\Hackathon\app\libs\bolts-android-1.1.4-javadoc.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="f5dd6492c539679411fa30818320b737c410158f">
-        <dex dex="C:\Users\Stephen\Documents\MyFiles\Development\AndroidStudio\Hackathon\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-javadoc-c3d84e88460ae85bb52fc34e20d34dff1902021d.jar" />
-    </item>
-    <item
-        jar="C:\Users\Stephen\Documents\MyFiles\Development\AndroidStudio\Hackathon\app\libs\ParseCrashReporting-1.8.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="6abf1314a88755b8fa034b2ae99956fc02170ed1">
-        <dex dex="C:\Users\Stephen\Documents\MyFiles\Development\AndroidStudio\Hackathon\app\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.8.3-7b3417489b8c0170eb519abd62b6c14c197009ca.jar" />
-    </item>
-    <item
-        jar="C:\Users\Stephen\Documents\MyFiles\Development\AndroidStudio\Hackathon\app\libs\Parse-1.8.3.jar"
+        jar="C:\Users\Joseph Hinkle\Documents\Development\Android\Hackathon-2015\Hackathon with Stephen\Hackathon2015\app\libs\Parse-1.8.3.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="56dfc827c23c1f0be64eff2ef556633ea95b16ad">
-        <dex dex="C:\Users\Stephen\Documents\MyFiles\Development\AndroidStudio\Hackathon\app\build\intermediates\pre-dexed\debug\Parse-1.8.3-f1fd7ffbd689a9cf64d182a68d6a2490613c4c2a.jar" />
+        <dex dex="C:\Users\Joseph Hinkle\Documents\Development\Android\Hackathon-2015\Hackathon with Stephen\Hackathon2015\app\build\intermediates\pre-dexed\debug\Parse-1.8.3-e18003c448cc1aaaf897a0b21cded66d2999c6f1.jar" />
     </item>
     <item
-        jar="C:\Users\Stephen\Documents\MyFiles\Development\AndroidStudio\Hackathon\app\libs\bolts-android-1.1.4.jar"
+        jar="C:\Users\Joseph Hinkle\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Joseph Hinkle\Documents\Development\Android\Hackathon-2015\Hackathon with Stephen\Hackathon2015\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-2f740e55aeb02c704de7dd2930d121803d74b546.jar" />
+    </item>
+    <item
+        jar="C:\Users\Joseph Hinkle\Documents\Development\Android\Hackathon-2015\Hackathon with Stephen\Hackathon2015\app\libs\bolts-android-1.1.4.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="129874135e6081269ace2312092031558865de12">
-        <dex dex="C:\Users\Stephen\Documents\MyFiles\Development\AndroidStudio\Hackathon\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-03a0551b07033e5e95d39dd5646eaf5747c9cb6d.jar" />
+        <dex dex="C:\Users\Joseph Hinkle\Documents\Development\Android\Hackathon-2015\Hackathon with Stephen\Hackathon2015\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-058e20be4302ff8903f4dc3e4841b92fc2bbf7c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Joseph Hinkle\Documents\Development\Android\Hackathon-2015\Hackathon with Stephen\Hackathon2015\app\libs\ParseCrashReporting-1.8.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6abf1314a88755b8fa034b2ae99956fc02170ed1">
+        <dex dex="C:\Users\Joseph Hinkle\Documents\Development\Android\Hackathon-2015\Hackathon with Stephen\Hackathon2015\app\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.8.3-36f6739821d08a86067147d132760fd801bbb394.jar" />
+    </item>
+    <item
+        jar="C:\Users\Joseph Hinkle\Documents\Development\Android\Hackathon-2015\Hackathon with Stephen\Hackathon2015\app\libs\bolts-android-1.1.4-javadoc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f5dd6492c539679411fa30818320b737c410158f">
+        <dex dex="C:\Users\Joseph Hinkle\Documents\Development\Android\Hackathon-2015\Hackathon with Stephen\Hackathon2015\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-javadoc-9e9133b4f0187a92f4eefaf2fac5290d15ec1fdd.jar" />
     </item>
 
 </items>
